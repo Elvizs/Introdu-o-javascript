@@ -1,2 +1,2 @@
-# Introdu-o-javascript
+# Introducao-JavaScript
 Projeto inicial em Js
